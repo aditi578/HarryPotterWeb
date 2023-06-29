@@ -1,1 +1,1 @@
-# HarryPotterWeb
+# HarryPotterWeb is a GitHub repository that houses the code and resources for the immersive website dedicated to the enchanting world of Harry Potter. Developed using HTML5 and CSS3, this repository serves as a collaborative platform for fans to contribute, enhance, and explore the magical website's codebase.
